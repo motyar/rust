@@ -1,0 +1,16 @@
+[workspace]
+resolver = "2"
+members = [
+    "examples/01-basics",
+    "examples/02-control-flow",
+    "examples/03-ownership",
+    "examples/04-structs-enums",
+    "examples/05-collections",
+    "examples/06-error-handling",
+    "examples/07-generics-traits",
+    "examples/08-modules",
+    "examples/09-testing",
+    "examples/10-file-io",
+    "examples/11-concurrency",
+    "examples/12-patterns",
+]
